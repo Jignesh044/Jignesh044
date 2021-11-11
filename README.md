@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jignesh044
 - 👀 I’m interested in traveling,editing video and photos,i also know little bit web development
 - 🌱 I’m currently learning for chartered accountant (C.A.)
-- 💞️ I’m looking to collaborate on any web development,video editing or anything where i can learn some new things in tech fiels
+- 💞️ I’m looking to collaborate for any work of web development,video editing or anything where i can learn some new things in tech field
 - 📫 How to reach me on instagrame @mistry9981
 
 <!---
